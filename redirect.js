@@ -1,1 +1,1 @@
-window.location.replace("https://joshguarino.pythonanywhere.com")
+window.location.replace("https://joshguarino.pythonanywhere.com");
